@@ -1,0 +1,14 @@
+- [ ] Section 19: User Generated Content 10 / 13|2hr 50min
+  - [ ] 85. "My Notes" Feature 20min
+  - [ ] 86. "My Notes" Front-end Part 1 8min
+  - [ ] 87. "My Notes" Front-end Part 2 15min
+  - [ ] 88. Quick Note About The Next Lesson 1min
+  - [ ] 89. Delete Posts with the REST API 18min
+  - [ ] 90. Edit / Update Posts with the REST API 19min
+  - [ ] 91. Creating New Notes 15min
+  - [ ] 92. Creating New Notes (Part 2) 9min
+  - [ ] 93. Note Permissions and Security (Part 1) 20min
+  - [ ] 94. Note Permissions and Security (Part 2) 20min
+  - [ ] 95. Per-User Post Limit 20min
+  - [ ] 96. Quick Note About CSS 1min
+  - [ ] 97. jQuery Free My Notes 6min
