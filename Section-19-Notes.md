@@ -1,5 +1,6 @@
 - [ ] Section 19: User Generated Content 10 / 13|2hr 50min
   - [ ] 85. "My Notes" Feature 20min
+    - 12:04 First Mention of Putting a Note onto the Front End
   - [ ] 86. "My Notes" Front-end Part 1 8min
   - [ ] 87. "My Notes" Front-end Part 2 15min
   - [ ] 88. Quick Note About The Next Lesson 1min
